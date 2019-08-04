@@ -1,0 +1,23 @@
+.header-left-side {
+  height: 64px;
+  background-color: #001529;
+  margin-bottom: 20px;
+}
+
+.content-style {
+  padding: 0;
+  background-color: #ffffff;
+  border-bottom: 1px solid lightgray;
+  box-sizing: content-box;
+}
+
+.Icon-Side {
+  margin-left: 10px;
+}
+
+.header-logo img {
+  width: 20%;
+  height: 64px;
+  float: right;
+  margin-right: 20px;
+}
